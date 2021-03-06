@@ -1,0 +1,9 @@
+{
+  "name": "compo-ui",
+  "version": "1.0.0",
+  "description": "React UI compound components",
+  "main": "index.js",
+  "repository": "git@github.com:marcellefter/compo-ui.git",
+  "author": "Marcel Lefter <marcel.lefter@ebs-integrator.com>",
+  "license": "MIT"
+}
