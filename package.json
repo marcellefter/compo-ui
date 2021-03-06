@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "git@github.com:marcellefter/compo-ui.git",
   "author": "Marcel Lefter <marcel.lefter@ebs-integrator.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "rollup": "^2.40.0"
+  }
 }
